@@ -1,11 +1,17 @@
-# Marombei
+<h1 align="center">Marombei</h1>
 
-Your social network to create and share your training sheets, analyze and improve your workouts and show everyone what a marombeiro you are.
+<p align="center">
+  <a href="https://results.pre-commit.ci/latest/github/DaniloMartoCarvalho/marombei/master">
+    <img src="https://results.pre-commit.ci/badge/github/DaniloMartoCarvalho/marombei/master.svg" alt="pre-commit.ci status" />
+  </a>
+</p>
 
-## LICENSE
+<p>Your social network to create and share your training sheets, analyze and improve your workouts and show everyone what a marombeiro you are.</p>
 
-The MIT License
+<h2>License</h2>
 
-## VERSION
+<p>The MIT License</p>
 
-0.1.0
+<h2>Version</h2>
+
+<p>0.1.0</p>
